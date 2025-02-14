@@ -32,7 +32,7 @@
     "format": "prettier --write {src,tests}/**/*.ts"
   },
   "devDependencies": {
-    "@babel/types": "7.17.0",
+    "@babel/types": "7.26.9",
     "@sapphire/eslint-config": "4.3.0",
     "@sapphire/prettier-config": "1.4.0",
     "@sapphire/ts-config": "3.3.2",
